@@ -1,0 +1,1 @@
+print("hhjj\t" *5)
